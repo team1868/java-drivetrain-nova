@@ -1,3 +1,3 @@
 # JavaNova
 
-Translating Nova code from C++ to Java, including changing from joystick to xbox control (2023).
+Translating [C++ Nova code](https://github.com/team1868/drivetrain-nova) to Java, including restructuring command base logic and changing from joystick to a xbox controller (2023).
